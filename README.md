@@ -1,7 +1,7 @@
 # project2_shinyapp
 This repository contains the code and data for the shiny app that presents the main results of the differential gene expression and gene set enrichment analysis of 6 samples (3 normal and 3 tumor) from the [TCGA-KIRC](https://portal.gdc.cancer.gov/projects/TCGA-KIRC) (Kidney Renal Clear Cell Carcinoma) project.
 
-The app is available here.
+The app is available [here](https://katibioinf.shinyapps.io/DGE_and_GSEA_shiny_app/).
 
 The repository includes the following files:
 
